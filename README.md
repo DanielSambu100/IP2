@@ -1,1 +1,1 @@
-# IP2
+This is my second Independent Project first ever published at Moringa School. It's just a draft, so I intend to push in more stuffs as I elicit more commits. It's grounded on HTML and CSS. Well, I'm a toddler dev,please don't laugh! 
